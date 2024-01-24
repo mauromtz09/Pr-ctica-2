@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    background-color: indianred;
+    padding: 5px;
+}
+
+h1{
+    color: rgb(2, 255, 171);
+    text-align: center;
+}
+
+h2{
+    color: rgb(28, 216, 223);
+    background-color:rgb(70, 1, 233);
+}
+
+b{
+    color:darkcyan;
+}
+
+i{
+    color: rgb(223, 238, 7);
+}
+
+p{
+    text-align:justify;
+    text-indent: 30px;
+    font-size: 20px;
+}
